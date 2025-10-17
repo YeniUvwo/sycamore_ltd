@@ -317,12 +317,12 @@ p, li, a {
 /* --- WHO WE ARE SECTION --- */
 .intro {
   position: relative;
-  background: url('images/intro_bg.jpg') center/cover no-repeat;
+  background: url('images/intro_bg.jpg') center top/cover no-repeat;
   color: #fff;
   padding: 6rem 2rem;
   text-align: center;
   overflow: hidden;
-  background-attachment: fixed; 
+  background-attachment: scroll; 
   transition: background-position 0.3s ease-out;
 }
 
