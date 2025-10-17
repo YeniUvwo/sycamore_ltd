@@ -317,7 +317,7 @@ p, li, a {
 /* --- WHO WE ARE SECTION --- */
 .intro {
   position: relative;
-  background: url('../images/intro_bg.jpg') center/cover no-repeat;
+  background: url('images/intro_bg.jpg') center/cover no-repeat;
   color: #fff;
   padding: 6rem 2rem;
   text-align: center;
@@ -667,15 +667,15 @@ p, li, a {
 
 /* Individual page backgrounds */
 .about-hero {
-  background: url('../images/about-bg.jpg') center/cover no-repeat;
+  background: url('images/about-bg.jpg') center/cover no-repeat;
 }
 
 .services-hero {
-  background: url('../images/services-bg.jpg') center/cover no-repeat;
+  background: url('images/services-bg.jpg') center/cover no-repeat;
 }
 
 .contact-hero{
-  background: url('../images/contact-bg.jpg') center/cover no-repeat;
+  background: url('images/contact-bg.jpg') center/cover no-repeat;
 }
 /* Hero text styling */
 .page-hero h1 {
